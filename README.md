@@ -1,4 +1,4 @@
-![Electric Feather Icon](./Assets/Icon.png)
+![Electric Feather Icon](./Assets/Icon.png?raw=true&s=50)
 # Electric-Fence-Monitor
 An open-source electric fence monitoring system for ~50eur. 
 Built with an ESP32, this device measures fence voltage (10J, 15kV), temperature, rainfall, and UV light, then sends the data wirelessly (WiFi) to Home Assistant.
