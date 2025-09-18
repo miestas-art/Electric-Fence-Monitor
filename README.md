@@ -29,3 +29,9 @@ A list of the components used in this project
 * **Soil Moisture:** Capacitive Soil Moisture Sensor Module
 * **Ambient Light:** SAMIROB Ambient Light Sensor Module VEML7700 (I²C)
 * **Connectivity and assembly:** High Voltage Cooper Wire 20KV-18AWG, 5V 1A USB A wall charger, USB A to A Cable,  Nylon PCB Standoff Spacers M3 (Thread 6mm), Single Side PCB Prototyping Boards 5*7cm, plastic box, 400-Point Breadboard for prototyping, Breadboard Jumper Wire Kit
+
+## IMPORTANT NOTE
+> ⚠️ **WARNING:**  
+> This project involves high-voltage circuits that can be extremely dangerous and may cause serious injury or death if not handled properly.  
+> Majority of development is done using AI assistance. No professional electricians or software developers were involved in this project.  
+> **USE AT YOUR OWN RISK! Always follow proper safety precautions and consult a qualified professional if unsure.**
