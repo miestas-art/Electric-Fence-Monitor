@@ -15,3 +15,17 @@ This project intends to provide a complete solution for monitoring an electric f
 * Temperature: Three DS18B20 waterproof sensors are connected using the 1-Wire protocol, which allows multiple sensors to share a single pin.
 * Analog Sensors: A resistive rain sensor and a UV sensor module connect to dedicated ADC pins on the ESP32.
 * Data Transmission: The ESP32-WROOM-32U uses its integrated Wi-Fi with external antennas to send sensor data via ESPHome to Home Assistant dashboard.
+
+## Component List
+A list of the components used in this project
+
+* **Microcontroller:** ESP32-WROOM-32U Development Board with external 2.4G antenna
+* **High-Voltage Sensor:** 100MΩ high-voltage resistor (RI82-50X10-100MJ), 20kΩ metal film resistor
+* **Circuit Protection:** SMAJ3.3A TVS diode
+* **Capacitors:** 1µF capacitor
+* **Temperature Sensors:** DS18B20 Waterproof Temperature Sensor Module (x3) with Plugable 3-pin terminal
+* **Rain Sensor:** Digital Rain Snow Sensor Module w/Humidity Detection
+* **UV Sensor:** GUVA-S12SD UV Detection Sensor Module
+* **Soil Moisture:** Capacitive Soil Moisture Sensor Module
+* **Ambient Light:** SAMIROB Ambient Light Sensor Module VEML7700 (I²C)
+* **Connectivity and assembly:** High Voltage Cooper Wire 20KV-18AWG, 5V 1A USB A wall charger, USB A to A Cable,  Nylon PCB Standoff Spacers M3 (Thread 6mm), Single Side PCB Prototyping Boards 5*7cm, 400-Point Breadboard for prototyping, Breadboard Jumper Wire Kit
