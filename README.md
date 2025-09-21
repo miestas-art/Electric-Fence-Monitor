@@ -1,4 +1,6 @@
+<head>
 <meta name="google-site-verification" content="2yOuVSR3vusgyCqZ-QZysjBdnQS-RB1x7dUocyCwaMk" />
+</head>
 
 ![Electric Feather Icon](./Assets/Icon.png)
 # Electric-Fence-Monitor
