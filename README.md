@@ -20,9 +20,9 @@ Built with an ESP32, this device measures fence voltage (10J, 15kV), temperature
 A list of the components used in this project
 
 * **Microcontroller:** ESP32-WROOM-32U Development Board with external 2.4G antenna
-* **High-Voltage Sensor:** 100MΩ high-voltage resistor (RI82-50X10-100MJ), 20kΩ metal film resistor
+* **High-Voltage Sensor:** 200MΩ high-voltage resistor (RI82-50X10-200MJ), 40kΩ metal film resistor
 * **Circuit Protection:** SMAJ3.3A TVS diode
-* **Capacitors:** 1µF capacitor
+* **Capacitors:** 10µF capacitor
 * **Temperature Sensors:** DS18B20 Waterproof Temperature Sensor Module (x3) with Plugable 3-pin terminal
 * **Rain Sensor:** Digital Rain Snow Sensor Module w/Humidity Detection
 * **UV Sensor:** GUVA-S12SD UV Detection Sensor Module
