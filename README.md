@@ -1,7 +1,20 @@
+<head>
+<meta name="google-site-verification" content="2yOuVSR3vusgyCqZ-QZysjBdnQS-RB1x7dUocyCwaMk" />
+</head>
+
 ![Electric Feather Icon](./Assets/Icon.png)
 # Electric-Fence-Monitor
-An open-source electric fence monitoring system for ~50eur. 
-Built with an ESP32, this device measures fence voltage (10J, 15kV), temperature, rainfall, and UV light, then sends the data wirelessly (WiFi) to Home Assistant.
+I have high voltage eletric fence setup for wolf prevention and I would like to monitor it's state remotely, send alerts when faults occur (usually grounding due to line break, fallen tree or too much grassy vegetation touching bottom wires).
+My goal is to build a DIY electric fence monitoring system for under 50eur that could integrate to my Home Assistant system on-site.
+Device will be built with an ESP32, that measures fence voltage (10J, 15kV), temperature, rainfall, and UV light, then sends the data wirelessly (WiFi) to Home Assistant.
+
+Further upgrades might include off-grid (solar) charging and other communication methods.
+
+## IMPORTANT NOTE
+> ⚠️ **WARNING:**  
+> This project involves high-voltage circuits that can be extremely dangerous and may cause serious injury or death if not handled properly.  
+> Majority of development is done using AI assistance. No professional electricians or software developers were involved in this project (so far).  
+> **USE AT YOUR OWN RISK! Always follow proper safety precautions and consult a qualified professional if unsure.**
 
 ## Key Features:
 * Real-time Monitoring: Safely measures and tracks fence voltage, allows identification alerting of fence failures.
@@ -30,8 +43,3 @@ A list of the components used in this project
 * **Ambient Light:** SAMIROB Ambient Light Sensor Module VEML7700 (I²C)
 * **Connectivity and assembly:** High Voltage Cooper Wire 20KV-18AWG, 5V 1A USB A wall charger, USB A to A Cable,  Nylon PCB Standoff Spacers M3 (Thread 6mm), Single Side PCB Prototyping Boards 5*7cm, plastic box, 400-Point Breadboard for prototyping, Breadboard Jumper Wire Kit
 
-## IMPORTANT NOTE
-> ⚠️ **WARNING:**  
-> This project involves high-voltage circuits that can be extremely dangerous and may cause serious injury or death if not handled properly.  
-> Majority of development is done using AI assistance. No professional electricians or software developers were involved in this project.  
-> **USE AT YOUR OWN RISK! Always follow proper safety precautions and consult a qualified professional if unsure.**
