@@ -37,6 +37,7 @@ A list of the components used in this project
 * **Circuit Protection:** SMAJ3.3A TVS diode
 * **Temperature Sensors:** DS18B20 Waterproof Temperature Sensor Module (x3) with Plugable 3-pin terminal
 * **Connectivity and assembly:** High Voltage Cooper Wire 20KV-18AWG, 5V 1A USB A wall charger, USB A to A Cable,  Nylon PCB Standoff Spacers M3 (Thread 6mm), Single Side PCB Prototyping Boards 5*7cm, plastic box, 400-Point Breadboard for prototyping, Breadboard Jumper Wire Kit
+  
 Optional:
 * **Rain Sensor:** Digital Rain Snow Sensor Module w/Humidity Detection
 * **UV Sensor:** GUVA-S12SD UV Detection Sensor Module
