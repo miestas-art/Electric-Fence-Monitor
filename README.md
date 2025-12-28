@@ -44,3 +44,4 @@ Optional:
 * **Soil Moisture:** Capacitive Soil Moisture Sensor Module
 * **Ambient Light:** SAMIROB Ambient Light Sensor Module VEML7700 (I²C)
 
+Read wiki for more information https://github.com/miestas-art/Electric-Fence-Monitor/wiki/Prototype-A-%E2%80%90-Final-thoughts
