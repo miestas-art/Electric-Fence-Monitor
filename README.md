@@ -10,8 +10,8 @@ Device will be built with an ESP32, that measures fence voltage (10J, 15kV), tem
 
 Further upgrades might include off-grid (solar) charging and other communication methods.
 
-**2026 July update** - electic fence (voltage) sensor has been working very well for last 10 months, but I have not been implementing other additions (solar irradiation etc.) and this project is on hold until I have more need for these additional sensors.
-Please read wiki for more detail about exact implemetnation steps I took.
+**2026 July update** - electic fence (voltage) sensor has been working very well for the last 10 months, but I have not been implementing other additions (solar irradiation etc.) and this project is on hold until I have more need for these additional sensors.
+Please read wiki for more detail about exact implementation steps I took.
 
 
 ## IMPORTANT NOTE
